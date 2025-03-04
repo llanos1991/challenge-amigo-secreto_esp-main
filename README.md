@@ -4,4 +4,7 @@
 
 ## Descripción
 
-El desarrollo del juego tiene 
+El desarrollo del juego tiene dos funcionalidades en el codigo que son : 
+- Lista de amigos
+- Sorteo de amigo secreto
+  
