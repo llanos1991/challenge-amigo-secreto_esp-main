@@ -12,3 +12,6 @@ El desarrollo del juego tiene dos funcionalidades en el codigo que son :
 ![{53A7CB6A-C452-4F40-BDA8-00ED236F404C}](https://github.com/user-attachments/assets/7d11183a-31aa-4e75-906a-15f895789d04)
 
 
+### Caracteristicas
+
+El desarrollo de la logica de programación se realizo en el archivo app.js, siendo facil intuitivo y legible.
